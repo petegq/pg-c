@@ -2,7 +2,7 @@
 
 int main()
 {
-	int age;
+	int age = 12;
 	// Removing initial value from var = warning: ‘age’ is used uninitialized in this function
 	// Also > 'I am 0 years old' on execution.
 	int height = 72;
