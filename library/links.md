@@ -4,6 +4,8 @@
 
 - C Programming for the Absolute Beginner - Michael Vines (2008) ([local](/library/books/C-Programming-Absolute-Beginner.pdf), [amazon](https://www.amazon.co.uk/C-Programming-Absolute-Beginner-Second/dp/1598634801))
 
+- Hand-On Network Programming with C - Lewis Van Winkle (2019) ([packt](https://www.packtpub.com/product/hands-on-network-programming-with-c/9781789349863), [github source](https://github.com/codeplea/Hands-On-Network-Programming-with-C))
+
 ### Other
 *I'll organise them into another file if this becomes to large*  
 
