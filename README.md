@@ -7,4 +7,4 @@ Learning C, so code will ~~potentially~~ include dumb questions 🐿️
 *Using: cc (Debian 10.2.1-6) 10.2.1 20210110 on Linux 5.10.0-kali7-amd64 (x86-64) VM*  
 *Progress: 37-660*
 
-/library - Collection of links, articles, books, tutorials I have found useful.
+[/library](/library) - Collection of links, articles, books, tutorials I have found useful.
