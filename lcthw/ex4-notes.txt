@@ -1,0 +1,14 @@
+// GDB Debugger (Linux, for Mac use LLDB)
+gdb
+b main      (or break...)
+run
+bt          (or backtrace)
+s           (or step)
+n           (or next)
+c           (or cont or continue)
+p expr      (or print)
+clear
+quit
+
+// Run gdb with backtrace ('bt') in quiet mode
+gdb --batch --ex run --ex bt --ex q --args ./ex4
