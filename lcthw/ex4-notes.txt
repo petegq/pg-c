@@ -1,14 +1,33 @@
 // GDB Debugger (Linux, for Mac use LLDB)
-gdb
-b main      (or break...)
-run
-bt          (or backtrace)
-s           (or step)
-n           (or next)
-c           (or cont or continue)
-p expr      (or print)
-clear
-quit
+
+$ gdb ./ex4
+(gdb) b main      (or break...)
+(gdb) run
+(gdb) bt          (or backtrace)
+(gdb) s           (or step)
+(gdb) n           (or next)
+(gdb) c           (or cont or continue)
+(gdb) p expr      (or print)
+(gdb) clear
+(gdb) quit
 
 // Run gdb with backtrace ('bt') in quiet mode
 gdb --batch --ex run --ex bt --ex q --args ./ex4
+
+----------------------------------------------------
+// Valgrind Debugger (Linux)
+// Google it to look at commands
+
+$ valgrind ./ex4
+
+----------------------------------------------------
+// Splint Linter (Linux)
+// Google it to look at commands
+
+$ splint ./ex4.c
+
+----------------------------------------------------
+// AddressSanitizer (Mac, alt to Valgrind, needs clang)
+// Google it to look at commands
+
+----------------------------------------------------
