@@ -7,9 +7,9 @@
 - Hand-On Network Programming with C - Lewis Van Winkle (2019) ([packt](https://www.packtpub.com/product/hands-on-network-programming-with-c/9781789349863), [source](https://github.com/codeplea/Hands-On-Network-Programming-with-C))
 
 ### Courses & Tutorials
-[Complete C Programming Bootcamp - Byte Garage on Udemy](https://www.udemy.com/course/the-complete-c-programming-bootcamp/)
+[Complete C Programming Bootcamp](https://www.udemy.com/course/the-complete-c-programming-bootcamp/) Byte Garage (2021) on Udemy.
 
 ### Other
 *I'll organise them into another file if this becomes to large*  
 
-[Data Structures and Programming Techniques (CPSC 223, Yale Spring 2021) - James Aspnes](http://cs.yale.edu/homes/aspnes/classes/223/notes.html)
+[Data Structures and Programming Techniques](http://cs.yale.edu/homes/aspnes/classes/223/notes.html) (CPSC 223, Yale Spring 2021) - James Aspnes.
