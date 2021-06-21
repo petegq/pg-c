@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void)
+{
     printf("===^^===\n");
     printf("Welcome to the Decimal to Hexadecimal Converter!\n");
     printf("Enter a number:\n");
