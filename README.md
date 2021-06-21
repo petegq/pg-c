@@ -5,7 +5,7 @@
 
 [/lcthw](/lcthw) - Exercises from 'Learn C the Hard Way - Zed A. Shaw'.
 
-[/ccpb](/ccpb) - Exercises and source code from 'The Complete C Programming Bootcamp - Byte Garage'.
+[/ccpb](/ccpb) - Exercises from 'The Complete C Programming Bootcamp - Byte Garage'.
 
 [/net-c](/net-c) - Exercises and source code from 'Hands-On Network Programming with C - Lewis Van Winkle'.
 
