@@ -795,7 +795,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C"
+			"value" : "ccpb"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1103,6 +1103,78 @@
 		},
 		{
 			"name" : "C_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/petergarside-quin/projects/pg-c/ccpb"
+		},
+		{
+			"name" : "ccC_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/petergarside-quin/projects/pg-c/ccpb/cmake-build-debug"
+		},
+		{
+			"name" : "ccC_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "ccC_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/petergarside-quin/projects/pg-c/ccpb"
+		},
+		{
+			"name" : "ccpbC_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/petergarside-quin/projects/pg-c/ccpb/cmake-build-debug"
+		},
+		{
+			"name" : "ccpbC_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "ccpbC_SOURCE_DIR",
 			"properties" : 
 			[
 				{
